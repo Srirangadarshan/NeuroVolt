@@ -78,7 +78,7 @@ This will start both the frontend (on port 3000) and backend (on port 3001) serv
 
 ## Development
 
-The project uses a concurrent development setup where both the frontend and backend servers run simultaneously. The frontend is built with React and uses Plotly.js for data visualization, while the backend serves stock data from CSV files and provides a RESTful API.
+The project uses a concurrent development setup where both the frontend and backend servers run simultaneously. The frontend is built with React and uses Plotly.js for data visualization, while the backend serves stock data from CSV files and provides a RESTful API
 
 
 ## Acknowledgments
