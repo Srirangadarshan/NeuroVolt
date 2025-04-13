@@ -3,6 +3,14 @@
 
 A modern web application for visualizing and analyzing stock market data in real-time. This project consists of a React-based frontend dashboard and a Node.js backend server that processes and serves stock market data.
 
+# Live Demo
+
+https://drive.google.com/file/d/11Ww0QZ3UMi3I9ihjhZpJQoio7FR6vfm6/view?usp=sharing
+
+### Screenshot
+
+<img width="1391" alt="Screenshot 2025-04-13 at 19 49 20" src="https://github.com/user-attachments/assets/04426bab-2e17-41c9-a7b2-f265b0d31ac9" />
+
 ## Features
 
 - Real-time stock data visualization
