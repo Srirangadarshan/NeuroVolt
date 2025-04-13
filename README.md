@@ -3,7 +3,7 @@
 
 A modern web application for visualizing and analyzing stock market data in real-time. This project consists of a React-based frontend dashboard and a Node.js backend server that processes and serves stock market data.
 
-# Live Demo
+# Video Link
 
 https://drive.google.com/file/d/11Ww0QZ3UMi3I9ihjhZpJQoio7FR6vfm6/view?usp=sharing
 
@@ -13,11 +13,15 @@ https://drive.google.com/file/d/11Ww0QZ3UMi3I9ihjhZpJQoio7FR6vfm6/view?usp=shari
 
 ## Features
 
-- Real-time stock data visualization
-- Interactive charts and graphs
-- Multiple stock comparison capabilities
-- Historical data analysis
-- Responsive dashboard design
+- local stock data and real time stock tracking 
+- search and filtering datasets efficiently
+- add/remove stocks to personal watchlist
+- advanced data visualizations 
+- technical analysis ex: RSI, SMA20, volatility measures and store any visuals easily
+- exporting watchlist to csv
+- AI- powered market insights 
+- AI assistance chat bot for stock market using gemini 
+- settings for customizing and controlling
 
 ## Tech Stack
 
@@ -39,7 +43,7 @@ NeuroVolt/
 └── package.json        # Project dependencies and scripts
 ```
 
-## Getting Started
+# Getting Started
 
 ### Prerequisites
 
